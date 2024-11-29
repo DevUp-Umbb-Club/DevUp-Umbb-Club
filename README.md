@@ -3,9 +3,9 @@
 
 - 🔭 We are currently working on **Projects to make our club and university better**
 
-- 💬 Ask me about **How to join this incredible community**
+- 💬 Ask us about **How to join this incredible community**
 
-- 📫 How to reach me **devupclubumbb@gmail.com**
+- 📫 How to reach us **devupclubumbb@gmail.com**
 
 - ⚡ Fun fact **Devi is the cat mascot of the club!**
 
