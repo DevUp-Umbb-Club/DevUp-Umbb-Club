@@ -9,5 +9,7 @@
 
 - ⚡ Fun fact **Devi is the cat mascot of the club!**
 
-![image](https://github.com/user-attachments/assets/5e62fa44-1760-456a-9dcb-4266cc6423cd)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5e62fa44-1760-456a-9dcb-4266cc6423cd" alt="logo"/>
+</div>
 
