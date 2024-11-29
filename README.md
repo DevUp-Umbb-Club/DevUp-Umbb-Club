@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are Devup!</h1>
+<h1 align="center">Hi 👋, We are DevUp!</h1>
 <h3 align="center">A passionate tech club based in Boumerdes!</h3>
 
 - 🔭 We are currently working on **Projects to make our club and university better**
